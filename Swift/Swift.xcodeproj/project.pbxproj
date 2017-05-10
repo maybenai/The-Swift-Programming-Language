@@ -58,6 +58,7 @@
 		16BC6DC71EB0304900CBA4AA /* 2-3字符串和字符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-3字符串和字符.playground"; sourceTree = "<group>"; };
 		16BE0BC61EBFFE2A00C578CB /* 2-10 属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-10 属性.playground"; sourceTree = "<group>"; };
 		16BE0C541EC14F6500C578CB /* 2-11 方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-11 方法.playground"; sourceTree = "<group>"; };
+		16BE0C641EC2A1BE00C578CB /* 2-12 下标.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-12 下标.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +111,7 @@
 			children = (
 				16BC6D961EAF34C400CBA4AA /* AppDelegate.swift */,
 				16BC6D981EAF34C400CBA4AA /* ViewController.swift */,
+				16BE0C641EC2A1BE00C578CB /* 2-12 下标.playground */,
 				16BE0C541EC14F6500C578CB /* 2-11 方法.playground */,
 				16BE0BC61EBFFE2A00C578CB /* 2-10 属性.playground */,
 				1650523F1EBC569500221045 /* 2-9 类和结构体.playground */,
