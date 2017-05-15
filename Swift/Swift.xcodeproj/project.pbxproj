@@ -60,6 +60,9 @@
 		16BE0C541EC14F6500C578CB /* 2-11 方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-11 方法.playground"; sourceTree = "<group>"; };
 		16BE0C641EC2A1BE00C578CB /* 2-12 下标.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-12 下标.playground"; sourceTree = "<group>"; };
 		16BE0CB31EC3F3FF00C578CB /* 2-13 继承.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-13 继承.playground"; sourceTree = "<group>"; };
+		16BE0CB41EC4051900C578CB /* 2-14 构造过程.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-14 构造过程.playground"; sourceTree = "<group>"; };
+		16C784641EC985A700564699 /* 2-15 析构过程.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-15 析构过程.playground"; sourceTree = "<group>"; };
+		16C784651EC988C700564699 /* 2-16 自动引用计数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-16 自动引用计数.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,9 @@
 			children = (
 				16BC6D961EAF34C400CBA4AA /* AppDelegate.swift */,
 				16BC6D981EAF34C400CBA4AA /* ViewController.swift */,
+				16C784651EC988C700564699 /* 2-16 自动引用计数.playground */,
+				16C784641EC985A700564699 /* 2-15 析构过程.playground */,
+				16BE0CB41EC4051900C578CB /* 2-14 构造过程.playground */,
 				16BE0CB31EC3F3FF00C578CB /* 2-13 继承.playground */,
 				16BE0C641EC2A1BE00C578CB /* 2-12 下标.playground */,
 				16BE0C541EC14F6500C578CB /* 2-11 方法.playground */,
