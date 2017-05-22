@@ -36,6 +36,7 @@
 /* Begin PBXFileReference section */
 		161485611EBAB6D400087CEE /* 2-8 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-8 枚举.playground"; sourceTree = "<group>"; };
 		1650523F1EBC569500221045 /* 2-9 类和结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-9 类和结构体.playground"; sourceTree = "<group>"; };
+		165BBC851ECEEEC6003BD1A2 /* 2-22 协议.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-22 协议.playground"; sourceTree = "<group>"; };
 		166EADE81EB965B400E0AEEE /* 2-7 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-7 闭包.playground"; sourceTree = "<group>"; };
 		16A4CB341EB17D6500E934B0 /* 2-4 集合类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-4 集合类型.playground"; sourceTree = "<group>"; };
 		16A4CB771EB2CEB200E934B0 /* 2-5 控制流.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-5 控制流.playground"; sourceTree = "<group>"; };
@@ -120,6 +121,7 @@
 			children = (
 				16BC6D961EAF34C400CBA4AA /* AppDelegate.swift */,
 				16BC6D981EAF34C400CBA4AA /* ViewController.swift */,
+				165BBC851ECEEEC6003BD1A2 /* 2-22 协议.playground */,
 				16C784781ECD31C800564699 /* 2-21 扩展.playground */,
 				16C784771ECD2ECF00564699 /* 2-20 嵌套类型.playground */,
 				16C7846B1ECBE2CD00564699 /* 2-19 类型转换.playground */,
