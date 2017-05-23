@@ -69,6 +69,7 @@
 		16C7846B1ECBE2CD00564699 /* 2-19 类型转换.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-19 类型转换.playground"; sourceTree = "<group>"; };
 		16C784771ECD2ECF00564699 /* 2-20 嵌套类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-20 嵌套类型.playground"; sourceTree = "<group>"; };
 		16C784781ECD31C800564699 /* 2-21 扩展.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-21 扩展.playground"; sourceTree = "<group>"; };
+		16D4C05B1ED3E3D0001CCF50 /* 2-23 泛型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2-23 泛型.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +122,7 @@
 			children = (
 				16BC6D961EAF34C400CBA4AA /* AppDelegate.swift */,
 				16BC6D981EAF34C400CBA4AA /* ViewController.swift */,
+				16D4C05B1ED3E3D0001CCF50 /* 2-23 泛型.playground */,
 				165BBC851ECEEEC6003BD1A2 /* 2-22 协议.playground */,
 				16C784781ECD31C800564699 /* 2-21 扩展.playground */,
 				16C784771ECD2ECF00564699 /* 2-20 嵌套类型.playground */,
@@ -237,6 +239,7 @@
 				TargetAttributes = {
 					16BC6D921EAF34C400CBA4AA = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = D788C862EY;
 						ProvisioningStyle = Automatic;
 					};
 					16BC6DA61EAF34C400CBA4AA = {
@@ -456,6 +459,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = D788C862EY;
 				INFOPLIST_FILE = Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "K.C-Home.Swift";
@@ -468,6 +472,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = D788C862EY;
 				INFOPLIST_FILE = Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "K.C-Home.Swift";
